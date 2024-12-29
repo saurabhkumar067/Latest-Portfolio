@@ -2,6 +2,7 @@ import React from "react";
 import { HiOutlineArrowSmallLeft } from "react-icons/hi2";
 import { MdOutlineFileDownload } from "react-icons/md";
 import { FaExternalLinkAlt } from "react-icons/fa";
+import Certificate from "../assets/pdf/Saurabh Kumar_Internship Certificate.pdf";
 
 function Page7() {
   return (
@@ -29,7 +30,7 @@ function Page7() {
                 <span className="text-[#fafafa]">With hands-on experience as a frontend developer during a 4-month internship at PayMe Fintech Solutions,</span> I developed responsive web platforms, turning innovative ideas into seamless interfaces and driving impactful user interactions in fintech.
               </p>
               <div className="flex justify-between items-center">
-                <a href="src/assets/Saurabh Kumar_Internship Certificate.pdf" download="Saurabh Kumar_Internship Certificate.pdf" className="text-lg lg:text-lg min-[320px]:text-xs font-[anzo5] flex items-center gap-1">
+                <a href={Certificate} download="Saurabh Kumar_Internship Certificate.pdf" className="text-lg lg:text-lg min-[320px]:text-xs font-[anzo5] flex items-center gap-1">
                   Download certificate <span className="text-[#9b9b9b]"><MdOutlineFileDownload className="text-2xl"/></span>
                 </a>
                 <span>

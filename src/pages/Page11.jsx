@@ -1,5 +1,6 @@
 import React from "react";
 import { HiOutlineArrowSmallLeft } from "react-icons/hi2";
+import Loading from "../assets/image/loading.png"
 
 function Page11() {
   return (
@@ -10,7 +11,14 @@ function Page11() {
                 <h1>Right</h1>
                 <h1 className="text-[#9b9b9b] absolute z-10 flex">fit <span className="self-end text-2xl rotate-[140deg] bg-zinc-700 rounded-full p-2"> <HiOutlineArrowSmallLeft /></span></h1>
             </div>
-              <img className="absolute bottom-20 lg:bottom-20 md:right-5 md:top-[unset] min-[320px]:top-20 lg:w-full min-[320px]:-right-8 min-[320px]:w-2/3" src="/src/assets/loading.png" alt="" />
+              {/* <img className="absolute bottom-20 lg:bottom-20 md:right-5 md:top-[unset] min-[320px]:top-20 lg:w-full min-[320px]:-right-8 min-[320px]:w-2/3" src="/src/assets/loading.png" alt="" /> */}
+              
+              {/* <img className="absolute bottom-20 lg:bottom-20 md:right-5 md:top-[unset] min-[320px]:top-20 lg:w-full min-
+              [320px]:-right-8 min-[320px]:w-2/3" src="https://github.com/saurabhkumar067/Latest-Portfolio/blob/main/src/assets/loading.png?raw=true" alt="" /> */}
+
+<img className="absolute bottom-20 lg:bottom-20 md:right-5 md:top-[unset] min-[320px]:top-20 lg:w-full min-
+              [320px]:-right-8 min-[320px]:w-2/3" src={Loading} alt="" />
+
           <div className="absolute -bottom-3  uppercase font-[anzo3] text-lg lg:text-lg min-[320px]:text-sm">
             <p className="text-[#9b9b9b]">sounds good?</p>
             <p className="text-[#9b9b9b] ">then please <span className="font-[anzo2] tracking-wide text-[#fafafa]"><a href="mailto:saurabhkumar22278@gmail.com">email me</a></span></p>

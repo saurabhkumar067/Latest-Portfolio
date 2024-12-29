@@ -1,6 +1,6 @@
 import React from "react";
-import GithubLogo from "../assets/page1 image/GitHub Logo.jfif"
-import LinkedinLogo from "../assets/page1 image/Linkedin Logo.jfif"
+import GithubLogo from "../assets/image/GitHub Logo.jfif"
+import LinkedinLogo from "../assets/image/Linkedin Logo.jfif"
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
