@@ -16,9 +16,8 @@ function Page2() {
       stagger: 1,
       scrollTrigger: {
         trigger: ".rotateText",
-        
         start: "top 70%",
-        end: "top -580%",
+        end: "top -270%",
         scrub: true,
       },
     });
@@ -32,9 +31,8 @@ function Page2() {
       stagger: 1,
       scrollTrigger: {
         trigger: ".rotateText",
-        
         start: "top 70%",
-        end: "top -380%",
+        end: "top -300%",
         scrub: true,
       },
     });
@@ -124,7 +122,7 @@ function Page2() {
   return (
     <div id="section2" className=" text-center pt-5 px-5 text-black">
       <h3 className="text-[#6a6a6a] lg:text-lg sm:text-base text-lg md:text-base min-[320px]:text-xs font-[anzo3]">
-        © saurabhkumar.vercel.app 2024 | designed and developed
+        © <a href="https://saurabhkumar.vercel.app/" target="_black">saurabhkumar.vercel.app</a> 2024 | designed and developed
       </h3>
       <div id="" className="rotateText mt-20 xl:mt-20 lg:mt-10 min-[320px]:mt-10">
         <h1 className="uppercase text-[40vw] leading-[33vw] text-black font-[anzo4]">
@@ -162,7 +160,7 @@ function Page2() {
         <img className="w-1/4 md:w-1/4 sm:w-2/5 min-[320px]:w-2/3" src={PaymeLogo} alt="PayMe" />
      
       </div>
-      <div className="relative h-[2px] w-1/4 my-7 xl:my-7 lg:my-4 left-1/2 -translate-x-1/2 bg-black"></div>
+      <div className="relative h-[2px] w-1/4 sm:w-1/4 my-7 xl:my-7 min-[425px]:my-4 left-1/2 -translate-x-1/2 bg-black min-[320px]:w-2/3 min-[320px]:my-2"></div>
     </div>
   );
 }

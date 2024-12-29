@@ -14,9 +14,8 @@ function Page5() {
       stagger: 1,
       scrollTrigger: {
         trigger: ".rotateText1",
-        markers: true,
         start: "top 70%",
-        end: "top -580%",
+        end: "top -270%",
         scrub: true,
       },
     });
@@ -32,7 +31,7 @@ function Page5() {
         trigger: ".rotateText1",
         
         start: "top 70%",
-        end: "top -380%",
+        end: "top -300%",
         scrub: true,
       },
     });
@@ -62,9 +61,8 @@ function Page5() {
       stagger: 1,
       scrollTrigger: {
         trigger: ".rotateText1",
-        
         start: "top 70%",
-        end: "top -290%",
+        end: "top -250%",
         scrub: true,
       },
     });
@@ -121,7 +119,7 @@ function Page5() {
   return (
     <div id="section3" className="bg-white text-center p-5 text-black">
       
-      <div id="" className="rotateText1 mt-12">
+      <div id="" className="rotateText1 ">
         <h1 className="uppercase text-[40vw] leading-[33vw] text-black font-[anzo4]">
         Bringing 
         </h1>
