@@ -19,7 +19,8 @@ function Page11() {
             <p className="text-[#9b9b9b] ">then please <span className="font-[anzo2] tracking-wide text-[#fafafa]"><a href="mailto:saurabhkumar22278@gmail.com">email me</a></span></p>
           </div>
         </div>
-        <div className="right w-3/5 text-lg lg:w-3/5 min-[320px]:w-full md:static md:top-0 min-[320px]:absolute min-[320px]:top-72 min-[375px]:top-72 min-[425px]:top-80 sm:top-[41%]">
+        {/* <div className="right w-3/5 text-lg lg:w-3/5 min-[320px]:w-full md:static md:top-0 min-[320px]:absolute min-[320px]:top-72 min-[375px]:top-72 min-[425px]:top-80 sm:top-[41%]"> */}
+       <div className="right w-3/5 text-lg lg:w-3/5 min-[320px]:w-full md:static min-[320px]:absolute min-[320px]:bottom-24 min-[425px]:bottom-20">
         <div>
             <h3 className="uppercase font-[anzo3] leading-6 lg:leading-6 text-[#9b9b9b] text-[18px] lg:text-[18px] min-[320px]:leading-4">personality</h3>
             <p className="font-[anzo2] leading-6 mt-1 lg:text-base min-[320px]:text-xs lg:leading-6 min-[320px]:leading-4 min-[320px]:pr-5 md:pr-0">I believe in building solutions that are clean, functional, and user-friendly. collaboration and communication are at the core of every project I take on.</p>
