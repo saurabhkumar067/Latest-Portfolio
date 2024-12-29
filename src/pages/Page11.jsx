@@ -4,7 +4,7 @@ import Loading from "../assets/image/loading.png"
 
 function Page11() {
   return (
-    <div className="h-[150vh] 2xl:h-[110vh] xl:h-[150vh] lg:h-[150vh] md:h-[120vh] sm:h-[160vh] min-[320px]:h-[160vh] p-3 lg:p-3 min-[320px]:p-2 bg-white ">
+    <div className="h-[150vh] 2xl:h-[110vh] xl:h-[150vh] lg:h-[150vh] md:h-[120vh] sm:h-[160vh] min-[375px]:h-[155vh] min-[320px]:h-[160vh] p-3 lg:p-3 min-[320px]:p-2 bg-white">
       <div className="h-full p-16 xl:p-16 lg:p-10 md:p-10 min-[320px]:py-8 min-[320px]:px-4 flex md:flex min-[320px]:block  justify-between w-full shadow-neutral-900 shadow-md bg-black rounded-[35px] overflow-hidden relative">
         <div className="left relative w-1/3 lg:w-1/3 min-[320px]:w-full h-full">
             <div className="uppercase tracking-wide font-[anzo4] leading-[16vw] lg:leading-[16vw] text-[20vw] lg:text-[20vw] min-[320px]:text-[40vw] min-[320px]:leading-[32vw] min-[320px]:absolute min-[320px]:z-10 md:text-[30vw] md:leading-[24vw] md:static">
