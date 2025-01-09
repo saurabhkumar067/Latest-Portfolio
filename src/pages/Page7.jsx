@@ -2,7 +2,6 @@ import React from "react";
 import { HiOutlineArrowSmallLeft } from "react-icons/hi2";
 import { MdOutlineFileDownload } from "react-icons/md";
 import { FaExternalLinkAlt } from "react-icons/fa";
-import Certificate from "../assets/pdf/Saurabh Kumar_Internship Certificate.pdf";
 
 function Page7() {
   return (
@@ -26,10 +25,10 @@ function Page7() {
           <div className=" font absolute bottom-48 min-[320px]:bottom-36 lg:bottom-48 md:bottom-48 grid grid-cols-3 md:grid-cols-3 gap-6 justify-between w-[90%] 2xl:w-[93%] xl:w-[90%] lg:w-[92%] md:w-[90%] min-[320px]:grid-cols-1">
             <div className="box ">
               <p className="text-[#9b9b9b] text-lg xl:text-lg lg:text-base md:text-sm min-[320px]:text-xs leading-6 xl:leading-6 lg:leading-5 font-[anzo5] md:leading-4">
-                <span className="text-[#fafafa]">With hands-on experience as a frontend developer during a 4-month internship at PayMe Fintech Solutions,</span> I developed responsive web platforms, turning innovative ideas into seamless interfaces and driving impactful user interactions in fintech.
+                <span className="text-[#fafafa]">With hands-on experience as a frontend developer during a 6-month internship at PayMe Fintech Solutions,</span> I developed responsive web platforms, turning innovative ideas into seamless interfaces and driving impactful user interactions in fintech.
               </p>
               <div className="flex justify-between items-center">
-                <a href={Certificate} download="Saurabh Kumar_Internship Certificate.pdf" className="text-lg lg:text-lg min-[320px]:text-xs font-[anzo5] flex items-center gap-1">
+                <a href="/" download="Saurabh Kumar_Internship Certificate.pdf" className="text-lg lg:text-lg min-[320px]:text-xs font-[anzo5] flex items-center gap-1">
                   Download certificate <span className="text-[#9b9b9b]"><MdOutlineFileDownload className="text-2xl"/></span>
                 </a>
                 <span>
