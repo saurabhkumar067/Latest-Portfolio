@@ -2,7 +2,7 @@ import React from 'react'
 
 function Page9() {
   return (
-    <div className='h-screen p-3 lg:p-3 min-[320px]:p-2 sm:h-screen min-[320px]:h-[80vh] bg-white'>
+    <div className='h-screen p-3 lg:p-3 min-[320px]:p-2 sm:h-screen min-[320px]:h-[85vh] bg-white'>
     <div className='h-full  text-center md:text-center w-full shadow-neutral-900 shadow-md bg-black rounded-[35px] overflow-hidden relative'>
 
       <video autoPlay muted loop className='absolute -top-12 xl:top-0 lg:top-0 w-full h-full lg:h-full min-[320px]:h-[110%] object-cover' src="https://video.wixstatic.com/video/11062b_fc7c8b8125a94b69ad7cad3b24a8093a/720p/mp4/file.mp4"></video>

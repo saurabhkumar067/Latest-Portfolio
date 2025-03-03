@@ -2,7 +2,7 @@ import React from 'react'
 
 function TiltText({refer}) {
   return (
-    <div ref={refer} id="tiltDiv" className="absolute top-64 lg:top-64 min-[320px]:top-52 sm:top-64 ">
+    <div ref={refer} id="tiltDiv" className="absolute top-64 lg:top-48 xl:top-60 min-[320px]:top-52 sm:top-64 ">
           <h1 className="text-6xl lg:text-6xl sm:text-5xl uppercase font-[anzo5] min-[320px]:text-3xl">
             I am <span className="text-[#4d4942c2]">DARK MODE</span>™
           </h1>
