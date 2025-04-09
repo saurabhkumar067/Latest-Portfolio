@@ -59,7 +59,7 @@ function Page7() {
           </div>
           <div className="absolute bottom-24 xl:bottom-24 min-[320px]:bottom-20 uppercase font-[anzo3] text-lg lg:text-lg min-[320px]:text-sm">
             <p className="text-[#9b9b9b]">LOOKING TO HIRE?</p>
-            <p className="text-[#9b9b9b] ">then please <span className="font-[anzo2] tracking-wide text-[#fafafa] cursor-pointer"><a href="http://wa.me/+919540113561" target="_black">contact me</a></span></p>
+            <p className="text-[#9b9b9b] ">then please <span className="font-[anzo2] tracking-wide text-[#fafafa] cursor-pointer"><a href="http://wa.me/+918920023440" target="_black">contact me</a></span></p>
           </div>
         </div>
       </div>
