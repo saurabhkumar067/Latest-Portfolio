@@ -35,7 +35,7 @@ function Page11() {
         </div>
         <div className="my-12 lg:my-12 min-[320px]:my-8">
             <h3 className="uppercase font-[anzo3] leading-6 lg:leading-6 text-[#9b9b9b] text-[18px] lg:text-[18px] min-[320px]:leading-4">focus</h3>
-            <p className="font-[anzo2] leading-6 mt-1 lg:text-base min-[320px]:text-xs lg:leading-6 min-[320px]:leading-4 min-[320px]:pr-5 md:pr-0">My focus is simple yet profound: to empower your online identity with innovative solutions that transcend the ordinary and fulfill your ambitions.</p>
+            <p className="font-[anzo2] leading-6 mt-1 lg:text-base min-[320px]:text-xs lg:leading-6 min-[320px]:leading-4 min-[320px]:pr-5 md:pr-0">My focus is simple yet profound to empower your online identity with innovative solutions that transcend the ordinary and fulfill your ambitions.</p>
         </div>
         <div>
             <h3 className="uppercase font-[anzo3] leading-6 lg:leading-6 text-[#9b9b9b] text-[18px] lg:text-[18px] min-[320px]:leading-4">fit</h3>

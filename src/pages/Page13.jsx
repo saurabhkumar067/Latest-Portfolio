@@ -28,7 +28,7 @@ function Page13() {
         </div>
         </div>
         <div className="absolute right-16 font-[anzo5] bottom-10 md:bottom-10 min-[320px]:bottom-4 uppercase lg:text-base md:text-xs min-[375px]:right-20 min-[425px]:right-28 sm:right-16">
-        © 2024 saurabh kumar
+        © 2025 saurabh kumar
         </div>
       </div>
     </div>

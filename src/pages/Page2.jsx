@@ -122,7 +122,7 @@ function Page2() {
   return (
     <div id="section2" className=" text-center pt-5 px-5 text-black">
       <h3 className="text-[#6a6a6a] lg:text-lg sm:text-base text-lg md:text-base min-[320px]:text-xs font-[anzo3]">
-        © <a href="https://saurabhkumar.vercel.app/" target="_black">saurabhkumar.vercel.app</a> 2024 | designed and developed
+        © <a href="https://saurabhkumar.vercel.app/" target="_black">saurabhkumar.vercel.app</a> 2025 | designed and developed
       </h3>
       <div id="" className="rotateText mt-20 xl:mt-20 lg:mt-10 min-[320px]:mt-10">
         <h1 className="uppercase text-[40vw] leading-[33vw] text-black font-[anzo4]">
