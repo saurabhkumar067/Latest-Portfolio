@@ -4,17 +4,17 @@ import Loading from "../assets/image/loading.png"
 
 function Page11() {
   return (
-    <div className="h-[150vh] 2xl:h-[110vh] xl:h-[110vh] lg:h-[120vh] md:h-[92vh] min-[375px]:h-[145vh] min-[320px]:h-[140vh] p-3 lg:p-3 min-[320px]:p-2 bg-white">
-      <div className="h-full p-16 xl:p-16 lg:p-10 md:p-10 min-[320px]:py-8 min-[320px]:px-4 flex md:flex min-[320px]:block  justify-between w-full shadow-neutral-900 shadow-md bg-black rounded-[35px] overflow-hidden relative">
-        <div className="left relative w-1/3 lg:w-1/3 min-[320px]:w-full h-full">
+    <div className="h-fit p-3 lg:p-3 min-[320px]:p-2 bg-white">
+      <div className="h-full p-16 xl:p-16 lg:p-10 md:p-10 min-[320px]:py-8 min-[320px]:px-4 flex md:flex min-[320px]:block  justify-between w-full shadow-neutral-900 shadow-md bg-black rounded-[35px] overflow-hidden relative md:h-fit min-[320px]:h-[180vh]">
+        <div className="left  w-1/3 lg:w-1/3 min-[320px]:w-full h-full">
             <div className="uppercase tracking-wide font-[anzo4] leading-[16vw] lg:leading-[16vw] text-[20vw] lg:text-[20vw] min-[320px]:text-[40vw] min-[320px]:leading-[32vw] min-[320px]:absolute min-[320px]:z-10 md:text-[30vw] md:leading-[24vw] md:static">
                 <h1>Right</h1>
                 <h1 className="text-[#9b9b9b] absolute z-10 flex">fit <span className="self-end text-2xl rotate-[140deg] bg-zinc-700 rounded-full p-2 2xl:text-5xl"> <HiOutlineArrowSmallLeft /></span></h1>
             </div>
        
-            <img className="absolute bottom-20 lg:bottom-28 md:right-5 md:top-[unset] min-[320px]:top-20 lg:w-full min-[320px]:-right-8 min-[320px]:w-2/3" src={Loading} alt="Loading" />
+            <img className="absolute bottom-20 lg:bottom-56 left-8 md:right-5 md:top-[unset] min-[320px]:top-20 lg:w-1/3 min-[320px]:-right-8 min-[320px]:w-2/3" src={Loading} alt="Loading" />
 
-          <div className="absolute -bottom-3  uppercase font-[anzo3] text-lg 2xl:text-2xl lg:text-lg min-[320px]:text-sm">
+          <div className="absolute bottom-8  uppercase font-[anzo3] text-lg 2xl:text-2xl lg:text-lg min-[320px]:text-sm">
             <p className="text-[#9b9b9b]">sounds good?</p>
             <p className="text-[#9b9b9b] ">then please <span className="font-[anzo2] tracking-wide text-[#fafafa]"><a href="mailto:saurabhkumar22278@gmail.com">email me</a></span></p>
           </div>

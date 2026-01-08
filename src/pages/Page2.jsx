@@ -2,6 +2,7 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 import React, { useEffect } from "react";
+import FullWebMartLogo from "../assets/image/FWM LOGO-01.png";
 import PaymeLogo from "../assets/image/payme logo.png";
 import ProjectCACALogo from "../assets/image/projectCACA logo.jpg";
 
@@ -143,7 +144,7 @@ function Page2() {
         <a href="https://saurabhkumar.vercel.app/" target="_black">
           saurabhkumar.vercel.app
         </a>{" "}
-        2025 | designed and developed
+        2026 | designed and developed
       </h3>
       <div
         id=""
@@ -178,9 +179,14 @@ function Page2() {
           WORKS!
         </h1>
       </div>
-      <div className="flex justify-center items-center scale-50 gap-20">
+      <div className="flex justify-center items-center scale-50 sm:gap-20 min-[320px]:gap-10">
         {/* <img className="w-1/4 md:w-1/4 sm:w-2/5 min-[320px]:w-2/3" src="src/assets/payme logo.png" alt="PayMe" /> */}
         {/* <img className="w-1/4 md:w-1/4 sm:w-2/5 min-[320px]:w-2/3" src="https://github.com/saurabhkumar067/Latest-Portfolio/blob/main/src/assets/payme%20logo.png?raw=true" alt="PayMe" /> */}
+        <img
+          className="w-1/4 md:w-1/4 sm:w-2/5 min-[320px]:w-2/3"
+          src={FullWebMartLogo}
+          alt="PayMe"
+        />
         <img
           className="w-1/4 md:w-1/4 sm:w-2/5 min-[320px]:w-2/3"
           src={PaymeLogo}
