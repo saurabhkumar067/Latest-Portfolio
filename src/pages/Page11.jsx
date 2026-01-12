@@ -12,7 +12,7 @@ function Page11() {
                 <h1 className="text-[#9b9b9b] absolute z-10 flex">fit <span className="self-end text-2xl rotate-[140deg] bg-zinc-700 rounded-full p-2 2xl:text-5xl"> <HiOutlineArrowSmallLeft /></span></h1>
             </div>
        
-            <img className="absolute bottom-20 lg:bottom-56 left-8 md:right-5 md:top-[unset] min-[320px]:top-20 lg:w-1/3 min-[320px]:-right-8 min-[320px]:w-2/3" src={Loading} alt="Loading" />
+            <img className="absolute bottom-20 lg:bottom-56 left-8 md:left-0 md:w-1/2 md:top-[unset] min-[320px]:top-20 lg:w-1/3 min-[320px]:left-20 min-[320px]:w-2/3" src={Loading} alt="Loading" />
 
           <div className="absolute bottom-8  uppercase font-[anzo3] text-lg 2xl:text-2xl lg:text-lg min-[320px]:text-sm">
             <p className="text-[#9b9b9b]">sounds good?</p>
@@ -20,7 +20,7 @@ function Page11() {
           </div>
         </div>
         {/* <div className="right w-3/5 text-lg lg:w-3/5 min-[320px]:w-full md:static md:top-0 min-[320px]:absolute min-[320px]:top-72 min-[375px]:top-72 min-[425px]:top-80 sm:top-[41%]"> */}
-       <div className="right w-3/5 text-lg lg:w-3/5 min-[320px]:w-full md:static min-[320px]:absolute min-[320px]:bottom-36 min-[425px]:bottom-20">
+       <div className="right w-3/5 text-lg lg:w-3/5 min-[320px]:w-full md:static min-[320px]:absolute min-[320px]:bottom-36 min-[425px]:bottom-32">
         <div>
             <h3 className="uppercase font-[anzo3] leading-6 lg:leading-6 text-[#9b9b9b] text-[18px] lg:text-[18px] min-[320px]:leading-4 2xl:text-2xl">personality</h3>
             <p className="font-[anzo2] leading-6 mt-1 lg:text-base min-[320px]:text-xs lg:leading-6 min-[320px]:leading-4 min-[320px]:pr-5 md:pr-0 2xl:text-lg">I believe in building solutions that are clean, functional, and user-friendly. collaboration and communication are at the core of every project I take on.</p>
