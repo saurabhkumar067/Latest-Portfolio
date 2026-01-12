@@ -31,7 +31,7 @@ function Page11() {
         </div>
         <div>
             <h3 className="uppercase font-[anzo3] leading-6 lg:leading-6 text-[#9b9b9b] text-[18px] lg:text-[18px] min-[320px]:leading-4 2xl:text-2xl">design</h3>
-            <p className="font-[anzo2] leading-6 mt-1 lg:text-base min-[320px]:text-xs lg:leading-6 min-[320px]:leading-4 min-[320px]:pr-5 md:pr-0 2xl:text-lg">I design not just for beauty but for harmony—interfaces that marry form with function, captivating users while delivering seamless usability</p>
+            <p className="font-[anzo2] leading-6 mt-1 lg:text-base min-[320px]:text-xs lg:leading-6 min-[320px]:leading-4 min-[320px]:pr-5 md:pr-0 2xl:text-lg">I design not just for beauty but for harmony interfaces that marry form with function, captivating users while delivering seamless usability</p>
         </div>
         <div className="2xl:my-10 lg:my-12 min-[320px]:my-8">
             <h3 className="uppercase font-[anzo3] leading-6 lg:leading-6 text-[#9b9b9b] text-[18px] lg:text-[18px] min-[320px]:leading-4 2xl:text-2xl">focus</h3>
@@ -39,7 +39,7 @@ function Page11() {
         </div>
         <div>
             <h3 className="uppercase font-[anzo3] leading-6 lg:leading-6 text-[#9b9b9b] text-[18px] lg:text-[18px] min-[320px]:leading-4 2xl:text-2xl">fit</h3>
-            <p className="font-[anzo2] leading-6 mt-1 lg:text-base min-[320px]:text-xs lg:leading-6 min-[320px]:leading-4 min-[320px]:pr-7 md:pr-0 2xl:text-lg">The ideal solution isn’t just one-size-fits-all—it’s a bespoke creation that aligns with your unique needs, aspirations, and vision.</p>
+            <p className="font-[anzo2] leading-6 mt-1 lg:text-base min-[320px]:text-xs lg:leading-6 min-[320px]:leading-4 min-[320px]:pr-7 md:pr-0 2xl:text-lg">The ideal solution isn’t just one size fits all it’s a bespoke creation that aligns with your unique needs, aspirations, and vision.</p>
         </div>
         <div className="2xl:my-10 lg:my-12 min-[320px]:my-8">
             <h3 className="uppercase font-[anzo3] leading-6 lg:leading-6 text-[#9b9b9b] text-[18px] lg:text-[18px] min-[320px]:leading-4 2xl:text-2xl">core values</h3>
@@ -47,7 +47,7 @@ function Page11() {
         </div>
         <div>
             <h3 className="uppercase font-[anzo3] leading-6 lg:leading-6 text-[#9b9b9b] text-[18px] lg:text-[18px] min-[320px]:leading-4 2xl:text-2xl">to consider</h3>
-            <p className="font-[anzo2] leading-6 mt-1 lg:text-base min-[320px]:text-xs lg:leading-6 min-[320px]:leading-4 min-[320px]:pr-9 md:pr-0 2xl:text-lg">Your online presence is more than a platform—it’s your story, your signature. Together, we’ll craft a first impression that lingers</p>
+            <p className="font-[anzo2] leading-6 mt-1 lg:text-base min-[320px]:text-xs lg:leading-6 min-[320px]:leading-4 min-[320px]:pr-9 md:pr-0 2xl:text-lg">Your online presence is more than a platform it’s your story, your signature. Together, we’ll craft a first impression that lingers</p>
         </div>
         </div>
       </div>
