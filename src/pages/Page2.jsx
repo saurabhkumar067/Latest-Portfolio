@@ -2,7 +2,7 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 import React, { useEffect } from "react";
-import FullWebMartLogo from "../assets/image/FWM LOGO-01.png";
+import DSucceedLogo from "../assets/image/dsucceedlearners-logo.png";
 import PaymeLogo from "../assets/image/payme logo.png";
 import ProjectCACALogo from "../assets/image/projectCACA logo.jpg";
 
@@ -183,8 +183,8 @@ function Page2() {
         {/* <img className="w-1/4 md:w-1/4 sm:w-2/5 min-[320px]:w-2/3" src="src/assets/payme logo.png" alt="PayMe" /> */}
         {/* <img className="w-1/4 md:w-1/4 sm:w-2/5 min-[320px]:w-2/3" src="https://github.com/saurabhkumar067/Latest-Portfolio/blob/main/src/assets/payme%20logo.png?raw=true" alt="PayMe" /> */}
         <img
-          className="w-1/4 md:w-1/4 sm:w-2/5 min-[320px]:w-2/3"
-          src={FullWebMartLogo}
+          className="w-1/4 md:w-1/6 sm:w-2/5 min-[320px]:w-2/3"
+          src={DSucceedLogo}
           alt="PayMe"
         />
         <img

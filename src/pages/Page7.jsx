@@ -39,7 +39,7 @@ function Page7() {
             <div className="box ">
               <p className="text-[#9b9b9b] text-lg xl:text-lg lg:text-base min-[320px]:text-xs leading-6 xl:leading-6 lg:leading-5 font-[anzo5] md:text-sm md:leading-4">
              
-              Proficient Frontend Developer with a proven track record at Full Web Mart and PayMe FinTech Solutions,  <span className="text-[#fafafa] text-[18px] lg:text-[18px] min-[320px]:text-xs"> developing pixel-perfect, high-performance, and scalable web solutions using modern frontend frameworks and tools.</span>
+              Proficient Frontend Developer with a proven track record at D Succeed Learners and PayMe FinTech Solutions,  <span className="text-[#fafafa] text-[18px] lg:text-[18px] min-[320px]:text-xs"> developing pixel-perfect, high-performance, and scalable web solutions using modern frontend frameworks and tools.</span>
               </p>
             </div>
             <div className="box ">
