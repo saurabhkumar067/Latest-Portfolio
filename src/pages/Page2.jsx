@@ -185,7 +185,7 @@ function Page2() {
         <img
           className="w-1/4 md:w-1/6 sm:w-2/5 min-[320px]:w-2/3"
           src={DSucceedLogo}
-          alt="PayMe"
+          alt="D Succeed Learners"
         />
         <img
           className="w-1/4 md:w-1/4 sm:w-2/5 min-[320px]:w-2/3"
@@ -195,7 +195,7 @@ function Page2() {
         <img
           className="w-1/6 md:w-1/6 sm:w-2/6 min-[320px]:w-2/5"
           src={ProjectCACALogo}
-          alt="PayMe"
+          alt="Project CACA"
         />
       </div>
       <div className="relative h-[2px] w-1/4 sm:w-1/3 my-7 xl:my-7 min-[425px]:my-4 left-1/2 -translate-x-1/2 bg-black min-[320px]:w-2/4 min-[320px]:my-2"></div>
