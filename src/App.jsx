@@ -17,7 +17,6 @@ import Page13 from "./pages/Page13";
 
 function App() {
   return (
-    <>
       <div id="main" className="overflow-hidden">
         <Header />
         <Page1 />
@@ -35,7 +34,6 @@ function App() {
         <Page13/>
 
       </div>
-    </>
   );
 }
 
