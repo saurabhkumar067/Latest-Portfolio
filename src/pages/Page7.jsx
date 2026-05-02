@@ -27,14 +27,6 @@ function Page7() {
               <p className="text-[#9b9b9b] text-lg xl:text-lg lg:text-base md:text-sm min-[320px]:text-xs leading-6 xl:leading-6 lg:leading-5 font-[anzo5] md:leading-4">
                 <span className="text-[#fafafa]">Frontend Developer with 2+ years of experience in developing scalable, pixel-perfect, and SEO-optimized web applications</span>, responsive web platforms that transform ideas into seamless projections and deliver engaging user experiences.
               </p>
-              <div className="flex justify-between items-center">
-                <a href="/" download="Saurabh Kumar_Internship Certificate.pdf" className="text-lg lg:text-lg min-[320px]:text-xs font-[anzo5] flex items-center gap-1">
-                  Download certificate <span className="text-[#9b9b9b]"><MdOutlineFileDownload className="text-2xl"/></span>
-                </a>
-                <span>
-                  <HiOutlineArrowSmallLeft className="bg-black rounded-full p-1 mt-2 mr-5" style={{color:"black",fontSize:"5px"}} />
-                </span>
-              </div>
             </div>
             <div className="box ">
               <p className="text-[#9b9b9b] text-lg xl:text-lg lg:text-base min-[320px]:text-xs leading-6 xl:leading-6 lg:leading-5 font-[anzo5] md:text-sm md:leading-4">
