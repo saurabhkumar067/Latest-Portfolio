@@ -1,6 +1,5 @@
 import React from "react";
 import { HiOutlineArrowSmallLeft } from "react-icons/hi2";
-import { MdOutlineFileDownload } from "react-icons/md";
 import { FaExternalLinkAlt } from "react-icons/fa";
 
 function Page7() {
@@ -25,13 +24,13 @@ function Page7() {
           <div className=" font absolute bottom-48 min-[320px]:bottom-36 lg:bottom-48 md:bottom-40 grid grid-cols-3 md:grid-cols-3 gap-6 justify-between w-[90%]  xl:w-[90%] lg:w-[92%] md:w-[90%] min-[320px]:grid-cols-1 2xl:w-[95%]">
             <div className="box ">
               <p className="text-[#9b9b9b] text-lg xl:text-lg lg:text-base md:text-sm min-[320px]:text-xs leading-6 xl:leading-6 lg:leading-5 font-[anzo5] md:leading-4">
-                <span className="text-[#fafafa]">Frontend Developer with 2+ years of experience in developing scalable, pixel-perfect, and SEO-optimized web applications</span>, responsive web platforms that transform ideas into seamless projections and deliver engaging user experiences.
+                <span className="text-[#fafafa]">Full Stack Developer (AI) with 2+ years of experience building scalable web applications using React.js, Next.js and ASP.NET Core</span>, with responsive UIs, clean code and AI-assisted development (Claude).
               </p>
             </div>
             <div className="box ">
               <p className="text-[#9b9b9b] text-lg xl:text-lg lg:text-base min-[320px]:text-xs leading-6 xl:leading-6 lg:leading-5 font-[anzo5] md:text-sm md:leading-4">
              
-              Proficient Frontend Developer with a proven track record at D Succeed Learners and PayMe FinTech Solutions,  <span className="text-[#fafafa] text-[18px] lg:text-[18px] min-[320px]:text-xs"> developing pixel-perfect, high-performance, and scalable web solutions using modern frontend frameworks and tools.</span>
+              Proven track record at D Succeed Learners and PayMe FinTech Solutions, <span className="text-[#fafafa] text-[18px] lg:text-[18px] min-[320px]:text-xs"> managing 10+ live websites, migrating a legacy site to Next.js (85% faster) and building a real-time multilingual chat platform.</span>
               </p>
             </div>
             <div className="box ">
@@ -40,7 +39,7 @@ function Page7() {
               Looking ahead to collaborate on challenging, design-driven projects that push the boundaries of web performance, usability, and interactivity, <span className="text-[#9b9b9b]">focusing on bold visuals, smooth animations, and a modern UI to reflect the brand's creativity and professionalism.</span>
               </p>
               {/* <div className="flex justify-between items-center">
-                <a href="https://contentbuzz.co/" target="_black" className="text-lg lg:text-lg min-[320px]:text-xs font-[anzo5] flex items-center gap-2">
+                <a href="https://contentbuzz.co/" target="_blank" rel="noreferrer" className="text-lg lg:text-lg min-[320px]:text-xs font-[anzo5] flex items-center gap-2">
                  Checkout Website <span className="text-[#9b9b9b]"><FaExternalLinkAlt className="text-xs"/></span>
                 </a>
                 <span>
@@ -48,7 +47,7 @@ function Page7() {
                 </span>
               </div> */}
               <div className="flex justify-between items-center">
-                <a href="https://github.com/saurabhkumar067" target="_black" className="text-lg lg:text-lg min-[320px]:text-xs font-[anzo5] flex items-center gap-2">
+                <a href="https://github.com/saurabhkumar067" target="_blank" rel="noreferrer" className="text-lg lg:text-lg min-[320px]:text-xs font-[anzo5] flex items-center gap-2">
                  Checkout on Github <span className="text-[#9b9b9b]"><FaExternalLinkAlt className="text-xs"/></span>
                 </a>
                 <span>
@@ -59,7 +58,7 @@ function Page7() {
           </div>
           <div className="absolute bottom-24 xl:bottom-24 min-[320px]:bottom-20 uppercase font-[anzo3] text-lg lg:text-lg min-[320px]:text-sm">
             <p className="text-[#9b9b9b]">LOOKING TO HIRE?</p>
-            <p className="text-[#9b9b9b] ">then please <span className="font-[anzo2] tracking-wide text-[#fafafa] cursor-pointer"><a href="http://wa.me/+918920023440" target="_black">contact me</a></span></p>
+            <p className="text-[#9b9b9b] ">then please <span className="font-[anzo2] tracking-wide text-[#fafafa] cursor-pointer"><a href="https://wa.me/918920023440" target="_blank" rel="noreferrer">contact me</a></span></p>
           </div>
         </div>
       </div>

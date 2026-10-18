@@ -9,6 +9,7 @@ import Page6 from "./pages/Page6";
 import Page7 from "./pages/Page7";
 import Page8 from "./pages/Page8";
 import Page9 from "./pages/Page9";
+import Projects from "./pages/Projects";
 import Page10 from "./pages/Page10";
 import Page11 from "./pages/Page11";
 import Page12 from "./pages/Page12";
@@ -28,6 +29,7 @@ function App() {
         <Page7/>
         <Page8/>
         <Page9/>
+        <Projects/>
         <Page10/>
         <Page11/>
         <Page12/>

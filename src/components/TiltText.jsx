@@ -6,10 +6,10 @@ const TiltText = React.forwardRef(function TiltText(_, ref) {
           <h1 className="text-6xl lg:text-6xl sm:text-5xl uppercase font-[anzo5] min-[320px]:text-3xl">
             I am <span className="text-[#4d4942c2]">DARK MODE</span>™
           </h1>
-          <h1 className="text-[7vw] xl:text-[8vw] lg:text-[10vw] leading-[7vw] xl:leading-[6vw] lg:leading-[8vw] uppercase font-[anzo1] sm:text-[9vw] md:text-[10vw] sm:leading-[8vw] min-[320px]:text-[16vw] min-[320px]:leading-[14vw]">
-          FRONTEND
+          <h1 className="text-[6vw] xl:text-[6.5vw] lg:text-[8vw] leading-[7vw] xl:leading-[6vw] lg:leading-[8vw] uppercase font-[anzo1] sm:text-[8vw] md:text-[8vw] sm:leading-[8vw] min-[320px]:text-[13vw] min-[320px]:leading-[14vw]">
+          FULL STACK
           </h1>
-          <h1 className="text-6xl lg:text-6xl uppercase font-[anzo5] md:text-5xl min-[320px]:text-5xl"><span className='text-2xl lg:inline-block min-[320px]:block'>DEVELOPER</span> TO HIRE</h1>
+          <h1 className="text-6xl lg:text-6xl uppercase font-[anzo5] md:text-5xl min-[320px]:text-5xl"><span className='text-2xl lg:inline-block min-[320px]:block'>DEVELOPER (AI)</span> TO HIRE</h1>
         </div>
   )
 })

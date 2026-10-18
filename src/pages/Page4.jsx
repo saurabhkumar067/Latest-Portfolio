@@ -14,7 +14,7 @@ function Page4() {
           <h3 className="text-[18px] lg:text-[22px] xl:leading-[2vw] md:text-[18px] leading-[1vw] lg:leading-[3vw] md:leading-[3vw] xl:mt-0 lg:mt-60 md:mt-32 font-[anzo2] uppercase min-[320px]:mt-24 min-[320px]:text-sm min-[375px]:mt-16 sm:mt-10">I DESIGN AND DEVELOP</h3>
           <h3 className="text-[20px] lg:text-[22px] md:text-[20px] font-[anzo3] font-extralight uppercase text-[#9b9b9b] min-[320px]:text-sm min-[320px]:mr-4">MODERN, IMPACTFUL AND LUXURIOUS</h3>
           <h3 className="text-[18px] xl:leading-[2vw] lg:text-[20px] md:text-[18px] font-[anzo2] leading-[1vw] lg:leading-[2.6vw] lowercase min-[320px]:leading-[6vw] min-[320px]:text-sm min-[320px]:mr-5 sm:leading-[2.5vw] min-[425px]:mr-12 sm:mr-5">
-            websites that seamlessly bridge your goals with needs of your
+            websites and full stack web applications that seamlessly bridge your goals with needs of your
             clients.
           </h3>
           </div>
